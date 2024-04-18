@@ -24,8 +24,9 @@ Alternatively, install manually:
 The tool operates in three modes: Ask, Check, and Inline.
 
 **Check Mode**  
-- Triggered by pressing Ctrl+G.  
+- Triggered by pressing Ctrl+G after highlighting an error message in your terminal  
 - Use this mode to analyze and get suggestions for any strange errors by highlighting the error text before pressing the shortcut.
+- The plugin automatically handles spacial charecters like double qoutes in your clipboard
 
 **Ask Mode**  
 - Activated by pressing Ctrl+S.  
