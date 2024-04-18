@@ -23,13 +23,14 @@ Alternatively, install manually:
 
 The tool operates in three modes: Ask, Check, and Inline.
 
+**Check Mode**  
+- Triggered by pressing Ctrl+G.  
+- Use this mode to analyze and get suggestions for any strange errors by highlighting the error text before pressing the shortcut.
+
 **Ask Mode**  
 - Activated by pressing Ctrl+S.  
 - Opens a GPT-powered prompt in your command line at the current cursor location.
 
-**Check Mode**  
-- Triggered by pressing Ctrl+G.  
-- Use this mode to analyze and get suggestions for any strange errors by highlighting the error text before pressing the shortcut.
 
 **Inline Mode**  
 - Triggered by pressing Ctrl+N.  
