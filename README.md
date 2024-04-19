@@ -7,6 +7,7 @@ A command-line tool designed for efficient debugging in terminal environments, u
 - Fish shell
 - [Shell GPT](https://github.com/TheR1D/shell_gpt)
   - An API key is required
+- xclip: `sudo apt install xclip`
 
 ## Installation
 
