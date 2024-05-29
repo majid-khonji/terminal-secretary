@@ -1,4 +1,4 @@
-set -U model "gpt-4-turbo-2024-04-09"
+set -U model "gpt-4o-2024-05-13"
 set -U chat_history "temp"
 
 bind \cg 'gptsec check'
