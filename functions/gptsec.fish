@@ -11,7 +11,7 @@ function gptsec
 
     else if test "$argv[1]" = "check"
         #set text $text (xclip -o -selection primary | tr '\\n' ' ' | sed 's/\\"/\\\\"/g') 
-        set text $text(xclip -o -selection primary | tr '\\n' ' ' | sed 's/\\"/\\\\"/g; s/\$/\\\$/g') 
+        set text $text (xclip -o -selection primary | tr '\\n' ' ' | sed 's/\\"/\\\\"/g; s/\$/\\\$/g') 
         sgpt --chat $chat_history --model $model $text
 
     else if test "$argv[1]" = "inline"
