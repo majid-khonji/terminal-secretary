@@ -35,6 +35,6 @@ The tool operates in three modes: Ask, Check, and Inline.
 
 
 **Inline Mode**  
-- Triggered by pressing Ctrl+N.  
+- Triggered by pressing Ctrl+H.  
 - Allows you to write a prompt that includes text from your clipboard, with the ability to append additional questions or commands.
 
