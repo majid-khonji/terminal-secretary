@@ -3,4 +3,4 @@ set -U chat_history "temp"
 
 bind \cg 'gptsec check'
 bind \cs 'gptsec ask'
-bind \cn 'gptsec inline'
+bind \ch 'gptsec inline'
