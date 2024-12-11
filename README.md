@@ -4,7 +4,9 @@ A command-line tool designed for efficient debugging in terminal environments, u
 
 ## Prerequisites
 
-- Fish shell
+- [Fish shell](https://fishshell.com/)
+- [Fisher](https://github.com/jorgebucaran/fisher) (to install plugins):
+`curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher`
 - [Shell GPT](https://github.com/TheR1D/shell_gpt)
   - An API key is required
 - xclip: `sudo apt install xclip`
