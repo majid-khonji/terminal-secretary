@@ -1,6 +1,7 @@
 # Terminal Secretary
 
-A command-line tool designed for efficient debugging in terminal environments, utilizing the power of GPT-4.
+A command-line tool designed for efficient debugging in terminal environments, utilizing the power of GPT-4. The tool is a wrapper on [Shell GPT](https://github.com/TheR1D/shell_gpt) designed to easily read from the clipboard and highlighted text. The workflow is optimized for quick error lookup using shortcuts.
+
 
 ## Prerequisites
 
