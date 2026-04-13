@@ -1,4 +1,4 @@
-set -U model "gpt-5.2"
+set -U model "gpt-5.4"
 set -U chat_history "tmp"
 
 bind \cg 'gptsec check'
